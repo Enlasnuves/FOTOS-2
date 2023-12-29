@@ -9,7 +9,7 @@ REM Commit the changes with the current date and time
 git commit -m "Update on %datetime%"
 
 REM Push the changes to the remote repository
-git push --set-upstream origin main
+git push origin
 
 Pause
 
